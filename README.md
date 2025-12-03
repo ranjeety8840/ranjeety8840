@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center">💻 A passionate Full Stack Developer (MERN) from India 🚀</h3>
+<h3 align="center">💻 A passionate Full Stack Developer (MERN) from Greater Noida, India 🚀</h3>
 
 ---
 
@@ -13,13 +13,32 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **[Lets Chat](https://drive.google.com/file/d/1rK1cujVPC20sF1uuG45xOWKxF3vs861X/view?usp=sharing)**  
-- 🌱 I’m currently learning **System Design**  
-- 👨‍💻 All of my projects are available **[here](https://drive.google.com/file/d/1rK1cujVPC20sF1uuG45xOWKxF3vs861X/view?usp=sharing)**  
-- 💬 Ask me about **JavaScript, React, HTML, CSS, Tailwind, NodeJs, MongoDb, Express**  
-- 📫 Reach me at: **ranjeetyadav28314@gmail.com**  
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1rK1cujVPC20sF1uuG45xOWKxF3vs861X/view?usp=sharing)**  
+### 🚀 Profile Description
+I'm a highly motivated Full Stack Developer with expertise in building modern web applications using the MERN stack. I have a strong passion for coding, problem-solving, and contributing to open-source projects. I enjoy learning new technologies, collaborating on innovative projects, and delivering scalable and efficient software solutions.  
+
+---
+
+### 💼 Projects
+
+#### 1. **Lets Chat – Real-time Chat Application**
+A real-time messaging platform where users can chat with each other instantly.  
+- **Tech Stack:** React, Node.js, Express, MongoDB, Socket.io  
+- **Features:** User authentication, group chat, online/offline status, and emojis.  
+- **[View Project](https://drive.google.com/file/d/1rK1cujVPC20sF1uuG45xOWKxF3vs861X/view?usp=sharing)**  
+- **[GitHub Repo](https://github.com/ranjeety8840/LetsChat)**  
+
+#### 2. **Team Space – Collaborative Workspace Management Platform**
+TeamSpace is a real-time collaborative workspace application designed to streamline team communication, document management, and task tracking.  
+- **Tech Stack:** React, Node.js, Express, MongoDB, Firebase  
+- **Features:** Project management, real-time collaboration, task assignment, and file sharing.  
+- **[Deployed Link](https://teamspace-frontend-project.onrender.com)**  
+- **[GitHub Repo](https://github.com/ranjeety8840/TeamSpace)**  
+
+#### 3. **Portfolio Tracker – WealthLens**
+A dynamic web application to track investments, portfolios, and live market data.  
+- **Tech Stack:** React, Firebase, Chart.js, REST APIs  
+- **Features:** Real-time price updates, interactive charts, asset management, and analytics.  
+- **[GitHub Repo](https://github.com/ranjeety8840/WealthLens)**  
 
 ---
 
