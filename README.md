@@ -28,7 +28,7 @@
 
 | Project | Description | Tech Stack | Demo / Repo |
 |---------|-------------|------------|-------------|
-| **Lets Chat** | Real-time chat application with authentication, group chat, and emojis. | React, Node.js, Express, MongoDB, Socket.io | [View Project](https://drive.google.com/file/d/1rK1cujVPC20sF1uuG45xOWKxF3vs861X/view?usp=sharing) / [GitHub Repo](https://github.com/ranjeety8840/LetsChat) |
+| **Lets Chat** | Real-time chat application with authentication, group chat, and emojis. | React, Node.js, Express, MongoDB, Socket.io | [View Project](https://letschatapp-3jfz.onrender.com) / [GitHub Repo](https://github.com/ranjeety8840/LetsChat) |
 | **Team Space** | Collaborative workspace management platform with task tracking, document management, and team communication. | React, Node.js, Express, MongoDB, Firebase | [Deployed Link](https://teamspace-frontend-project.onrender.com) / [GitHub Repo](https://github.com/ranjeety8840/TeamSpace) |
 
 ---
